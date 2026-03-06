@@ -21,4 +21,4 @@ quadrado_primeiro_numero *= quadrado_primeiro_numero
 quadrado_segundo_numero *= quadrado_segundo_numero
 quadrado_terceiro_numero *= quadrado_terceiro_numero
 
-print(f"A soma dos números é: {quadrado_primeiro_numero + quadrado_segundo_numero + quadrado_terceiro_numero}")
+print(f"A soma dos quadrados dos números é: {quadrado_primeiro_numero + quadrado_segundo_numero + quadrado_terceiro_numero}")
